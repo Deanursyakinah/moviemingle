@@ -1,0 +1,48 @@
+<?xml
+    version="1.0" encoding="UTF-8"
+?>
+
+<movies>
+    <movie>
+        <id>1</id>
+        <image>imgMov/ready_playe_one_cov.jpg</image>
+        <name>Ready Player One</name>
+        <production>Warner Bros.</production>
+    </movie>
+    <movie>
+        <id>2</id>
+        <image>imgMov/Kaijuno8.jpg</image>
+        <name>Kaiju no 8</name>
+        <production>Production I.G</production>
+    </movie>
+    <movie>
+        <id>7</id>
+        <image>imgMov/naruto_potrait.jpg</image>
+        <name>Naruto</name>
+        <production>Pierrot</production>
+    </movie>
+    <movie>
+        <id>6</id>
+        <image>imgMov/interstellar.jpg</image>
+        <name>Interstellar</name>
+        <production>Warner Bros.</production>
+    </movie>
+    <movie>
+        <id>5</id>
+        <image>imgMov/exhuma_potrait.jpg</image>
+        <name>Exhuma</name>
+        <production>Showbox dan Pinetown</production>
+    </movie>
+    <movie>
+        <id>4</id>
+        <image>imgMov/cars_cov.jpg</image>
+        <name>Cars</name>
+        <production>Pixar Animation</production>
+    </movie>
+    <movie>
+        <id>3</id>
+        <image>imgMov/adam_project_cover.jpg</image>
+        <name>Adam Project</name>
+        <production>Skydance Media</production>
+    </movie>
+</movies>
